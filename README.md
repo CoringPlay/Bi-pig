@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://mathaxclient.xyz/resources/images/icons/icon.png" width="150" height="150">
+  <img src="![](src/main/resources/assets/mathax/textures/icons/icon.png)" width="150" height="150">
 </div>
 
 <h1 align="center">
